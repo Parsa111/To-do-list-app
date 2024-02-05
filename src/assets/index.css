@@ -1,19 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
 :root {
     --title-font: "DM Serif Display", serif;
-    --body-bg: #e3dafc;
-    --white: #ffffff;
+    --body-bg: #ffffff;
+    --white: #999ab1d6;
     --green: #5cc6bf;
     --red: #ff0000;
     --glass-gray: #ffffff26;
-    --bright-purple: #a7a7ab;
-    --dark-purple: #402a9c;
-    --light-purple: #9a7ef5;
+    --bright-purple: #090710;
+    --dark-purple: #e8e8e8;
+    --light-purple: #151121;
     --rose-purple: #c9b7f6;
     --box-shadow: 1px 8px 26px -8px rgba(0, 0, 0, 0.7);
-    --purple-gradient: linear-gradient(6deg, rgba(108, 70, 255, 1) 31%, rgb(102, 69, 211) 67%, rgb(108, 85, 168) 100%);
-    --light-purple-gradient: linear-gradient( 6deg, rgba(108, 70, 255, 1) 31%, rgba(163, 137, 250, 1) 67%, rgba(201, 183, 246, 1) 100%);
-    --two-color-gradient: linear-gradient(6deg, rgba(108, 70, 255, 1) 7%, rgba(201, 183, 246, 1) 100%);
+    --purple-gradient: linear-gradient(6deg, rgb(27, 24, 40) 31%, rgb(17, 14, 26) 67%, rgb(12, 11, 15) 100%);
+    --light-purple-gradient: linear-gradient( 6deg, rgb(11, 9, 20) 31%, rgb(9, 6, 19)gba(201, 183, 246, 1) 100%);
+    --two-color-gradient: linear-gradient(6deg, rgb(16, 60, 238) 7%, rgba(201, 183, 246, 1) 100%);
 }
 
 
